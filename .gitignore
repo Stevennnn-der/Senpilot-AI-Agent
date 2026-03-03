@@ -1,0 +1,11 @@
+# Local env with secrets (never commit)
+.env
+# Virtual env
+.venv/
+venv/
+# Playwright / downloads / debug
+downloads/
+debug_*.png
+debug_*.html
+__pycache__/
+*.pyc
